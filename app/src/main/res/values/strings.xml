@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KokyoApp</string>
+    <string name="start_button_text">Start Meditation</string>
+    <string name="stop_button_text">Stop Meditation</string>
+    <string name="zazen">Zazen</string>
+    <string name="kinhin">Kinhin</string>
+</resources>
